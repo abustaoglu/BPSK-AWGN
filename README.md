@@ -17,6 +17,6 @@ Bit/Error Rate(biterr)
 In this section, the bit / error ratio is calculated for 10 ^ 4 or more bits. After each decision circuit, the output bit is compared with 
 the input bit and compared to the last total number of bits. 
 
-In this section, the variation of error probability is observed depending on the SNR (Eb / No) ratio. Theoretically, the error rate calculation can be found with the Q function.
+The variation of error probability is observed depending on the SNR (Eb / No) ratio. Theoretically, the error rate calculation can be found with the Q function.
 
 
